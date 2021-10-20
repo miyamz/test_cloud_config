@@ -1,4 +1,4 @@
 spring.cloud.config.name: web
 server:
-  base-url: http://localhost
+  baseurl: http://localhost
   port: 8080
