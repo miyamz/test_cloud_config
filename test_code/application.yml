@@ -1,0 +1,4 @@
+spring.cloud.config.name: test_code
+server:
+  baseurl: http://localhost
+  port: 8080
