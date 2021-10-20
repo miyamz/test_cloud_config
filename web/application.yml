@@ -1,9 +1,4 @@
 spring.cloud.config.name: web
 server:
-  base-url: http://web-dev.tappytoon.com
-  port: 80
----
-profiles: local
-server:
   base-url: http://localhost
   port: 8080
